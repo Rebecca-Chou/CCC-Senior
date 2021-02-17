@@ -1,2 +1,2 @@
 # CCC-Senior
-Canadian Computing Competition
+Past Canadian Computing Competition problems solved by myself
